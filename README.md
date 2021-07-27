@@ -18,17 +18,21 @@ This project demonstrates the ability to render a map on a web page and build an
 * CSS
 * HTML
 
+### How to Run
+This will run locally in your browser from index.html if you download all files and ensure they're located in the same directory as each other and have the same file structure (i.e. images folder with separately stored images.) Alternately, you can see it in action <a href="https://jayeclark.github.io/bus-map-animation/index.html" target="_blank">here</a>.
+
+### Planned Future Improvements
+- [ ] Rewrite the animation to travel from Harvard to MIT and back, instead of only one direction
+- [ ] Use the Mapbox library to smooth the transition from one stop to the next
+- [ ] Add a toggle option for real time bus tracking to the map 
+- [ ] Add the option to display map animations of bus stops at other locations
+
+
 ## Back Matter
 
 ### Legal Disclaimer
 Usage of this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-### To-do
-- [ ] Rewrite the animation to travel from Harvard to MIT and back, instead of only one direction
-- [ ] Use the Mapbox library to smooth the transition from one stop to the next
-- [ ] Add the option for real time bus tracking to the map
-- [ ] Add pop-up alerts when a bus arrives at one of the stations
-- [ ] Add the option to display map animations of bus stops at other locations
 
 ### License
 
